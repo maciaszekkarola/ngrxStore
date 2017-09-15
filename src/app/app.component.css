@@ -1,0 +1,12 @@
+html {
+    text-align:center;
+}
+button {
+    padding: 5px;
+    background-color: #2D397B;
+    color: #fff;
+    width: auto;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
